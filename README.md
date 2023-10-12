@@ -715,4 +715,12 @@ apabila pengguna menginput 2, maka akan masuk ke menu staff. pada menu parfum te
 ![Menu utama](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/1c83f842-ec31-4ba1-bbdb-da8970f42c92)
 
 #### 6. pilihan diluar 1-5
- 
+pilihan diluar 1-5 akan menghasilkan output tidak valid kalre pilihan > 5 itu tidak ada
+
+![pilihan > 5](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/ac6ccf88-0498-43cb-9160-8eec14fd684c)
+
+### 4.Keluar
+apabila memilih 4 artinya program keluar. pengguna dapat memilih 4 untuk mengakhiri proses program dan selesai.
+
+![keluar](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/ad8ecee3-ef12-4038-900f-cac8896ac853)
+
