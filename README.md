@@ -549,7 +549,6 @@ program ini di awali dengan tampilan menu utama saat di run. pada menu utama ter
 ![Menu Utama](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/f1338d18-aade-4b94-8baa-211afee21a36)
 
 ### 1. kelola parfum
-
 apabila pengguna menginput 1, maka akan masuk ke menu parfum. pada menu parfum terdapat 5 menu.
   
 ![Menu Parfum](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/1fa10589-90a8-4069-9fd3-0d8666a2f253)
@@ -600,16 +599,15 @@ berikut ini dokumentasi menu 1, yaitu tambah parfum
 
 ![tampilan data baru setelah dihapus](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/594475b3-01f7-4514-95e0-315f069f680f)
 
-#### Kembali ke menu utama
+#### 5. Kembali ke menu utama
 1. pilihan 5 dalah pilihan untuk kembali ke menu utama atau menu awal
 
 ![menu utama](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/b91fc3c2-5559-46df-92dc-7a5b58eed8f2)
 
 ### 2. Kelola Staff
-apabila pengguna menginput 2, maka akan masuk ke menu staff. pada menu parfum terdapat 5 menu.
+apabila pengguna menginput 2, maka akan masuk ke menu staff. pada menu pembeli terdapat 5 menu.
   
 ![Menu Staff](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/1c83f842-ec31-4ba1-bbdb-da8970f42c92)
-
 
 #### 1. Tambah Staff
 1. apabila memilih 1, maka masuk ke program tambah Staff
@@ -622,14 +620,12 @@ berikut ini dokumentasi menu 1, yaitu tambah staff
 ![tambah staff1](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/7603b1e9-149b-4046-a717-dd8b5a270775)
 ![tambah staff2](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/6d91770f-8ce1-4b3b-a44c-f267a19a66da)
 
-
 #### 2. Tampilkan Staff
 1. setelah menambah data Staff, kita bisa melihat data tersebut dengan memilih menu 2 yaitu menu tampilan
 2. ID staff akan muncul secara otomatis sesuai penginputan data staff.
 3. data akan ditampilkan dan kembali looping ke menu staff
 
 ![tampilkan staff](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/4fbb560b-a712-4fec-9467-6f1d21ae8994)
-
 
 #### 3. Edit Staff
 1. input pilihan 3 untuk mengedit data Staff yang sudah ada
@@ -645,7 +641,6 @@ berikut ini dokumentasi menu 1, yaitu tambah staff
 
 ![tampilan data yang sudah diedit](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/2fc77c89-e098-46cf-bd82-15c3ded07e1f)
 
-
 #### 4. Hapus Staff
 1. pada perintah input pilihan, pengguna dapat menginput 4 untuk menjalankan method hapus staff
 2. data akan ditampilkan kemudian pengguna akan diminta untuk menginput ID staff yang ingin dihapus
@@ -659,121 +654,65 @@ berikut ini dokumentasi menu 1, yaitu tambah staff
 
 ![setelah penghapusan data](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/0beca964-2424-4018-8ab3-77fb0fecde0b)
 
-#### Kembali ke menu utama
+#### 5. Kembali ke menu utama
 1. pilihan 5 dalah pilihan untuk kembali ke menu utama atau menu awal
 
 ![menu utama](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/b91fc3c2-5559-46df-92dc-7a5b58eed8f2)
 
 ### 3. Kelola Pembeli
-apabila pengguna menginput 2, maka akan masuk ke menu staff. pada menu parfum terdapat 5 menu.
+apabila pengguna menginput 3, maka akan masuk ke menu pembeli. pada menu pembeli terdapat 5 menu.
   
-![Menu Staff](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/1c83f842-ec31-4ba1-bbdb-da8970f42c92)
+![kelola pembeli](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/ee42a941-9f8b-435e-b280-31c591bc754f)
 
-
-#### 1. Tambah Staff
-1. apabila memilih 1, maka masuk ke program tambah Staff
-2. pengguna akan diminta untuk menginput Nama staff dan gaji staff
-3. setelah klik enter maka data staff akan otomatis ditambah.
-4. setelah itu akan di looping ke menu staff kembali, dan pengguna bisa memilih menu sesuai kebutuhan.
+#### 1. Tambah pembeli
+1. apabila memilih 1, maka masuk ke program tambah pembeli
+2. pengguna akan diminta untuk menginput Nama pembeli dan alamat pembeli
+3. setelah klik enter maka data pembeli akan otomatis ditambah.
+4. setelah itu akan di looping ke menu pembeli kembali, dan pengguna bisa memilih menu sesuai kebutuhan.
 
 berikut ini dokumentasi menu 1, yaitu tambah staff
 
-![tambah staff1](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/7603b1e9-149b-4046-a717-dd8b5a270775)
-![tambah staff2](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/6d91770f-8ce1-4b3b-a44c-f267a19a66da)
+![tambh pembeli1](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/ec157d08-f791-42a2-8b4b-cf4305e2f77e)
+![tambah pembeli2](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/78c6bfc4-ae39-4e3e-8f52-6c90932a00ec)
 
+#### 2. Tampilkan Pembeli
+1. setelah menambah data pembeli, kita bisa melihat data tersebut dengan memilih menu 2 yaitu menu tampilan
+2. ID pembeli akan muncul secara otomatis sesuai penginputan data pembeli.
+3. data akan ditampilkan dan kembali looping ke menu pembeli
 
-#### 2. Tampilkan Staff
-1. setelah menambah data Staff, kita bisa melihat data tersebut dengan memilih menu 2 yaitu menu tampilan
-2. ID staff akan muncul secara otomatis sesuai penginputan data staff.
-3. data akan ditampilkan dan kembali looping ke menu staff
+![tampilkan pembeli](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/d68d4082-e379-4847-a58c-b870e5457d8f)
 
-![tampilkan staff](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/4fbb560b-a712-4fec-9467-6f1d21ae8994)
+#### 3. Edit pembeli
+1. input pilihan 3 untuk mengedit data pembeli yang sudah ada
+2. setelah di enter, data pembeli akan ditampilkan agar pengguna lebih mudah untuk memilih id data mana yang akan di edit atau diupdate
+3. pengguna akan disuruh untuk menginput ID pembeli yanng ingin diubah sesuai data yang sudah ditampilkan
+4. setelah itu menginput nama baru kemudian alamat baru untuk mengganti data nama dan alamat Staff sebelumnya
+5. setelah itu akan disimpan secara otomatis dan kembali ke menu pembeli
 
-
-#### 3. Edit Staff
-1. input pilihan 3 untuk mengedit data Staff yang sudah ada
-2. setelah di enter, data staff akan ditampilkan agar pengguna lebih mudah untuk memilih id data mana yang akan di edit atau diupdate
-3. pengguna akan disuruh untuk menginput ID staff yanng ingin diubah sesuai data yang sudah ditampilkan
-4. setelah itu menginput nama baru kemudian gaji baru untuk mengganti data nama dan gaji Staff sebelumnya
-5. setelah itu akan disimpan secara otomatis dan kembali ke menu staff
-
-!![Edit staff](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/7087e047-3dd4-4a5f-9973-8cc351335ca8)
+![edit pembeli](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/f59f5e7b-b71e-4388-bb79-07d7637d1945)
 
 6. untuk membuktikan program sukses dapat memilih kembali pilihan 2 untuk menampilkan dan mengecek apakah data sudah di edit atau di update.
-7. gambar dibawah dapat dilihat bahwa data staff  nama Cristin dengan gaji 3000000 sudah diedit menjadi staff dengan nama Cristin dan gaji 3500000. logikanya staff Cristin naik gaji.
+7. gambar dibawah dapat dilihat bahwa data pembeli  nama Mba Taylor dengan alamat Lover City sudah diedit menjadi pembeli dengan nama Katty dan alamat Newland.
 
-![tampilan data yang sudah diedit](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/2fc77c89-e098-46cf-bd82-15c3ded07e1f)
+![pembeli sudah diedit](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/7fee9d38-4a17-44ae-a20d-3c0fecff2ff1)
 
+#### 4. Hapus pembeli
+1. pada perintah input pilihan, pengguna dapat menginput 4 untuk menjalankan method hapus pembeli
+2. data akan ditampilkan kemudian pengguna akan diminta untuk menginput ID pembeli yang ingin dihapus
+3. setelah klik enter, maka data akan dihapus secara otomatis oleh program
 
-#### 4. Hapus Staff
-1. pada perintah input pilihan, pengguna dapat menginput 4 untuk menjalankan method hapus staff
-2. data akan ditampilkan kemudian pengguna akan diminta untuk menginput ID staff yang ingin dihapus
-3. setelah klik enter, mak data akan dihapus secara otomatis oleh program
-
-![hapus staff](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/f452a3ec-b7f0-46a3-b50c-17c3e0f8d007)
+![hapus pembeli](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/f844a233-8cda-43ec-a876-a91225ced231)
 
 4. untuk membuktikan, maka lakukan pengecekan dengan menginput pilihan 2 kembali
-5. pada gambar dibawah, dilkukan penghapusan Staff dengan ID 2, maka dapat dilihat bahwa ID 2 sudah dihapus dari data staff.
-6. Property ID menggunakan Final Property, jadi nilainya tidak dapat berpindah ke staff lain.
+5. pada gambar dibawah, dilkukan penghapusan pembeli dengan ID 1, maka dapat dilihat bahwa ID 2 sudah dihapus dari data pembeli.
+6. Property ID menggunakan Final Property, jadi nilainya tidak dapat berpindah ke pembeli lain sehingg pembeli dengan ID 1 sudah tidak ada list didata lagi.
 
-![setelah penghapusan data](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/0beca964-2424-4018-8ab3-77fb0fecde0b)
+![image](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/cd63e82a-b8d1-4e4d-adc9-7faa35dfcfbc)
 
-#### Kembali ke menu utama
+#### 5. Kembali ke menu utama
 apabila pengguna menginput 2, maka akan masuk ke menu staff. pada menu parfum terdapat 5 menu.
   
-![Menu Staff](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/1c83f842-ec31-4ba1-bbdb-da8970f42c92)
+![Menu utama](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/1c83f842-ec31-4ba1-bbdb-da8970f42c92)
 
-
-#### 1. Tambah Staff
-1. apabila memilih 1, maka masuk ke program tambah Staff
-2. pengguna akan diminta untuk menginput Nama staff dan gaji staff
-3. setelah klik enter maka data staff akan otomatis ditambah.
-4. setelah itu akan di looping ke menu staff kembali, dan pengguna bisa memilih menu sesuai kebutuhan.
-
-berikut ini dokumentasi menu 1, yaitu tambah staff
-
-![tambah staff1](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/7603b1e9-149b-4046-a717-dd8b5a270775)
-![tambah staff2](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/6d91770f-8ce1-4b3b-a44c-f267a19a66da)
-
-
-#### 2. Tampilkan Staff
-1. setelah menambah data Staff, kita bisa melihat data tersebut dengan memilih menu 2 yaitu menu tampilan
-2. ID staff akan muncul secara otomatis sesuai penginputan data staff.
-3. data akan ditampilkan dan kembali looping ke menu staff
-
-![tampilkan staff](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/4fbb560b-a712-4fec-9467-6f1d21ae8994)
-
-
-#### 3. Edit Staff
-1. input pilihan 3 untuk mengedit data Staff yang sudah ada
-2. setelah di enter, data staff akan ditampilkan agar pengguna lebih mudah untuk memilih id data mana yang akan di edit atau diupdate
-3. pengguna akan disuruh untuk menginput ID staff yanng ingin diubah sesuai data yang sudah ditampilkan
-4. setelah itu menginput nama baru kemudian gaji baru untuk mengganti data nama dan gaji Staff sebelumnya
-5. setelah itu akan disimpan secara otomatis dan kembali ke menu staff
-
-!![Edit staff](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/7087e047-3dd4-4a5f-9973-8cc351335ca8)
-
-6. untuk membuktikan program sukses dapat memilih kembali pilihan 2 untuk menampilkan dan mengecek apakah data sudah di edit atau di update.
-7. gambar dibawah dapat dilihat bahwa data staff  nama Cristin dengan gaji 3000000 sudah diedit menjadi staff dengan nama Cristin dan gaji 3500000. logikanya staff Cristin naik gaji.
-
-![tampilan data yang sudah diedit](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/2fc77c89-e098-46cf-bd82-15c3ded07e1f)
-
-
-#### 4. Hapus Staff
-1. pada perintah input pilihan, pengguna dapat menginput 4 untuk menjalankan method hapus staff
-2. data akan ditampilkan kemudian pengguna akan diminta untuk menginput ID staff yang ingin dihapus
-3. setelah klik enter, mak data akan dihapus secara otomatis oleh program
-
-![hapus staff](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/f452a3ec-b7f0-46a3-b50c-17c3e0f8d007)
-
-4. untuk membuktikan, maka lakukan pengecekan dengan menginput pilihan 2 kembali
-5. pada gambar dibawah, dilkukan penghapusan Staff dengan ID 2, maka dapat dilihat bahwa ID 2 sudah dihapus dari data staff.
-6. Property ID menggunakan Final Property, jadi nilainya tidak dapat berpindah ke staff lain.
-
-![setelah penghapusan data](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/0beca964-2424-4018-8ab3-77fb0fecde0b)
-
-#### Kembali ke menu utama
-1. pilihan 5 dalah pilihan untuk kembali ke menu utama atau menu awal
-
-![menu utama](https://github.com/AngeliaCristin/Toko_Parfum/assets/126650418/b91fc3c2-5559-46df-92dc-7a5b58eed8f2)
-
+#### 6. pilihan diluar 1-5
+ 
